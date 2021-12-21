@@ -1,3 +1,5 @@
+Презентация доступна в файле [presentation.pptx](presentation.pptx).
+
 # Запуск и настройка сервера
 
 1. Установить все зависимости из `requirements.txt`
