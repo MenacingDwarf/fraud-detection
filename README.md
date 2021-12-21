@@ -1,4 +1,4 @@
-Презентация доступна в файле [presentation.pptx](presentation.pptx).
+Презентация доступна в файле [presentation.pptx](presentation.pptx). Юпитер ноутбук с исследованиями находится [здесь](main/model_training/notebook/Untitled.ipynb).
 
 # Запуск и настройка сервера
 
